@@ -10,5 +10,9 @@
   "devDependencies": {
     "@playwright/test": "^1.47.2",
     "@types/node": "^22.7.4"
+  },
+  "dependencies": {
+    "chrome-launcher": "^1.1.2",
+    "playwright-lighthouse": "^4.0.0"
   }
 }
